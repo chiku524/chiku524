@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Hello! I go by the name Nico Chikuji, and welcome to my github! I am a software engineer with a passion for keeping up with the latest trends on what's going on with the tech world. I love working on teams to code new projects and am always looking for new opportunities to grow and learn as a web developer. Feel free to browse through any of my public projects and drop a message if you would like to collaborate!
+#### Hello! I go by the name Nico Chikuji, and welcome to my github! I am a software engineer with a passion for keeping up with the latest trends on what's going on with the tech world. I love working on teams to code new projects and am always looking for new opportunities to grow and learn both inside and outside of the field. Feel free to browse through any of my public projects and feel free to reach out whenever!
 
 #### My favorite tech stacks include the following: React.js, Express.js (backend), and firebase. 
 
