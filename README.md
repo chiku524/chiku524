@@ -4,7 +4,7 @@
 
 *Web3 · AI-native workflows · products people return to*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nico.builds-0ea5e9?style=flat)](https://nico.builds/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nicochikuji--portfolio.vercel.app-0ea5e9?style=flat)](https://nicochikuji-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nico--chikuji-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nico-chikuji/)
 [![Calendly](https://img.shields.io/badge/Book%2030%20min-Calendly-006BFF?style=flat)](https://calendly.com/nico-chikuji/30min)
 
@@ -43,4 +43,4 @@ Async-friendly rituals, transparent roadmaps, copilots for speed — judgment an
 ---
 
 **Email:** [nico.builds@outlook.com](mailto:nico.builds@outlook.com)  
-**Site:** [nico.builds](https://nico.builds/) · **GitHub:** [@chiku524](https://github.com/chiku524)
+**Site:** [nicochikuji-portfolio.vercel.app](https://nicochikuji-portfolio.vercel.app) · **GitHub:** [@chiku524](https://github.com/chiku524)
